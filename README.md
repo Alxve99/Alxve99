@@ -34,7 +34,7 @@ TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &n
 
 <img width="100%" src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution calendar" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Alxve99&hide_total_contributions=true&hide_border=true&background=0D1117&border=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&stroke=58A6FF&sideNums=c9d1d9&currStreakNum=c9d1d9&dayLabels=c9d1d9&excludeDaysLabel=8b949e" alt="Streaks" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Alxve99&hide_total_contributions=true&hide_border=true&background=0D1117&border=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&stroke=58A6FF&sideNums=c9d1d9&currStreakNum=c9d1d9&dayLabels=c9d1d9&excludeDaysLabel=8b949e&v=2" alt="Streaks" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alxve99&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="Contribution activity graph" />
 
