@@ -70,6 +70,7 @@
     <circle cx="446" cy="168" r="1.5"><animate attributeName="cx" values="446;451;441;446" dur="2.6s" repeatCount="indefinite"/><animate attributeName="cy" values="168;172;164;168" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="40" y="92" font-size="46" font-weight="bold" fill="#c9d1d9" font-family="ui-monospace,Menlo,Consolas,monospace">Alxve</text>
-  <text x="42" y="120" font-size="14" fill="#8b949e" font-family="ui-sans-serif,system-ui,sans-serif">founder of solvra · full-stack · nocturnal</text>
+  <text x="40" y="80" font-size="46" font-weight="bold" fill="#c9d1d9" font-family="ui-monospace,Menlo,Consolas,monospace">Alxve</text>
+  <text x="42" y="108" font-size="14" fill="#8b949e" font-family="ui-sans-serif,system-ui,sans-serif">founder of solvra · full-stack · nocturnal</text>
+  <text x="42" y="134" font-size="13" font-style="italic" fill="#58a6ff" font-family="ui-sans-serif,system-ui,sans-serif">Never Done, Always Doing</text>
 </svg>

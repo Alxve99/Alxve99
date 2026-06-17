@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/header.svg?v=2" width="100%" alt="Alxve" />
+<img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/header.svg?v=3" width="100%" alt="Alxve" />
 
 </div>
 
