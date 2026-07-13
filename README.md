@@ -34,16 +34,25 @@ TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &n
 
 ### Featured builds
 
-<a href="https://github.com/Alxve99/metaprompt"><img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/featured-metaprompt.svg" alt="metaprompt - plain words in, engineered prompts out" /></a>
+<!-- FEATURED:START -->
 
-<sub>A prompt compiler: describe what you want, get the engineered prompt back, run it on your go.</sub>
-
-<br/>
-<br/>
-
+<!-- FEATURED-ITEM:second-brain-setup -->
 <a href="https://github.com/Alxve99/second-brain-setup"><img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/featured-second-brain.svg" alt="Second Brain Setup - one file that gives your AI a persistent memory" /></a>
 
 <sub>One file that gives Claude Code and Codex a persistent memory.</sub>
+<!-- /FEATURED-ITEM -->
+
+<br/>
+<br/>
+
+<!-- FEATURED-ITEM:metaprompt -->
+<a href="https://github.com/Alxve99/metaprompt"><img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/featured-metaprompt.svg" alt="metaprompt - plain words in, engineered prompts out" /></a>
+
+<sub>A prompt compiler: describe what you want, get the engineered prompt back, run it on your go.</sub>
+<!-- /FEATURED-ITEM -->
+
+<!-- FEATURED:END -->
+<sub><em>sorted daily by stars</em></sub>
 
 <br/>
 <br/>
