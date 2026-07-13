@@ -32,7 +32,14 @@ TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &n
 
 <!-- ===================== FEATURED ===================== -->
 
-### Featured build
+### Featured builds
+
+<a href="https://github.com/Alxve99/metaprompt"><img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/featured-metaprompt.svg" alt="metaprompt - plain words in, engineered prompts out" /></a>
+
+<sub>A prompt compiler: describe what you want, get the engineered prompt back, run it on your go.</sub>
+
+<br/>
+<br/>
 
 <a href="https://github.com/Alxve99/second-brain-setup"><img src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/assets/featured-second-brain.svg" alt="Second Brain Setup - one file that gives your AI a persistent memory" /></a>
 

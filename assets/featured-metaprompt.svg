@@ -1,0 +1,35 @@
+<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accentmp" x1="24" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="518" height="148" rx="12" fill="#0D1117" stroke="#1F6FEB" stroke-width="1.5"/>
+
+  <!-- compile mark: rough line -> structured prompt -->
+  <g>
+    <path d="M 434 46 q 8 -8 16 0 t 16 0 t 16 0" stroke="#2C4A7F" stroke-width="2" fill="none"/>
+    <path d="M 466 60 v 14" stroke="#58A6FF" stroke-width="2"/>
+    <path d="M 460 68 l 6 8 l 6 -8" stroke="#58A6FF" stroke-width="2" fill="none"/>
+    <rect x="436" y="84" width="60" height="7" rx="3.5" fill="#58A6FF"/>
+    <rect x="436" y="98" width="44" height="7" rx="3.5" fill="#1F6FEB"/>
+    <rect x="436" y="112" width="52" height="7" rx="3.5" fill="#39E6C3"/>
+  </g>
+
+  <text x="28" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#58A6FF">metaprompt</text>
+
+  <text x="28" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#C9D1D9">Plain words in. Engineered prompts out. You approve every run.</text>
+  <text x="28" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">Prompt-compiler skill for Claude Code and any capable model.</text>
+
+  <!-- chips -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">
+    <rect x="28" y="114" width="74" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="43" y="130" fill="#58A6FF">AI skill</text>
+    <rect x="110" y="114" width="52" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="125" y="130" fill="#58A6FF">MIT</text>
+    <rect x="170" y="114" width="84" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="185" y="130" fill="#58A6FF">CI-tested</text>
+  </g>
+</svg>
