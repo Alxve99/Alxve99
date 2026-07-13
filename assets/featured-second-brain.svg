@@ -1,0 +1,47 @@
+<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="24" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="518" height="148" rx="12" fill="#0D1117" stroke="#1F6FEB" stroke-width="1.5"/>
+
+  <!-- constellation mark -->
+  <g stroke="#2C4A7F" stroke-width="1.2">
+    <line x1="446" y1="52" x2="478" y2="38"/>
+    <line x1="478" y1="38" x2="496" y2="66"/>
+    <line x1="496" y1="66" x2="480" y2="100"/>
+    <line x1="480" y1="100" x2="448" y2="94"/>
+    <line x1="448" y1="94" x2="446" y2="52"/>
+    <line x1="446" y1="52" x2="470" y2="72"/>
+    <line x1="478" y1="38" x2="470" y2="72"/>
+    <line x1="496" y1="66" x2="470" y2="72"/>
+    <line x1="480" y1="100" x2="470" y2="72"/>
+    <line x1="448" y1="94" x2="470" y2="72"/>
+  </g>
+  <g fill="#58A6FF">
+    <circle cx="446" cy="52" r="3.5"/>
+    <circle cx="478" cy="38" r="3"/>
+    <circle cx="496" cy="66" r="3"/>
+    <circle cx="480" cy="100" r="3.5"/>
+    <circle cx="448" cy="94" r="3"/>
+  </g>
+  <circle cx="470" cy="72" r="5.5" fill="#39E6C3"/>
+
+  <text x="28" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#58A6FF">second-brain-setup</text>
+
+  <text x="28" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#C9D1D9">One file. One conversation. An AI memory that lasts.</text>
+  <text x="28" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">Interview-driven Second Brain for Claude Code and Codex CLI.</text>
+
+  <!-- chips -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">
+    <rect x="28" y="114" width="90" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="43" y="130" fill="#58A6FF">Markdown</text>
+    <rect x="126" y="114" width="52" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="141" y="130" fill="#58A6FF">MIT</text>
+    <rect x="186" y="114" width="88" height="24" rx="12" fill="#11203A" stroke="#1F6FEB"/>
+    <text x="201" y="130" fill="#58A6FF">single file</text>
+  </g>
+</svg>
