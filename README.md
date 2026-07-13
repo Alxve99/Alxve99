@@ -30,6 +30,17 @@ TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &n
 <br/>
 <br/>
 
+<!-- ===================== FEATURED ===================== -->
+
+### Featured build
+
+<a href="https://github.com/Alxve99/second-brain-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alxve99&repo=second-brain-setup&title_color=58A6FF&icon_color=1F6FEB&text_color=c9d1d9&bg_color=0D1117&hide_border=true" alt="Second Brain Setup - one file that gives your AI a persistent memory" /></a>
+
+<sub>One file that gives Claude Code and Codex a persistent memory.</sub>
+
+<br/>
+<br/>
+
 <!-- ===================== STATS ===================== -->
 
 <img width="100%" src="https://raw.githubusercontent.com/Alxve99/Alxve99/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution calendar" />
